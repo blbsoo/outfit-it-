@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="63" id="KGk-i7-Jjw" customClass="ReceiverMessageCell" customModule="Outfit_App" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="324" height="63"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="324" height="63"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1rL-4z-cAI" customClass="BorderView" customModule="Outfit_App" customModuleProvider="target">
+                        <rect key="frame" x="5" y="5" width="314" height="53"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholderImages" translatesAutoresizingMaskIntoConstraints="NO" id="Pj6-FF-LTc" customClass="BorderImageView" customModule="Outfit_App" customModuleProvider="target">
+                                <rect key="frame" x="289" y="5" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="20" id="8FK-DA-Dn9"/>
+                                    <constraint firstAttribute="height" constant="20" id="eO5-l3-01C"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1iu-RM-SZe">
+                                <rect key="frame" x="5" y="5" width="279" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TfX-W2-2bT">
+                                <rect key="frame" x="309" y="30" width="0.0" height="18"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Pj6-FF-LTc" firstAttribute="leading" secondItem="1iu-RM-SZe" secondAttribute="trailing" constant="5" id="1jf-dv-82q"/>
+                            <constraint firstAttribute="trailing" secondItem="Pj6-FF-LTc" secondAttribute="trailing" constant="5" id="8Zh-y0-w1Q"/>
+                            <constraint firstItem="1iu-RM-SZe" firstAttribute="top" secondItem="1rL-4z-cAI" secondAttribute="top" constant="5" id="EXz-zw-kyI"/>
+                            <constraint firstItem="Pj6-FF-LTc" firstAttribute="top" secondItem="1rL-4z-cAI" secondAttribute="top" constant="5" id="G5Q-U7-Qs0"/>
+                            <constraint firstItem="1iu-RM-SZe" firstAttribute="leading" secondItem="1rL-4z-cAI" secondAttribute="leading" constant="5" id="Iua-5q-1pC"/>
+                            <constraint firstAttribute="trailing" secondItem="TfX-W2-2bT" secondAttribute="trailing" constant="5" id="Sd6-75-YEh"/>
+                            <constraint firstAttribute="bottom" secondItem="TfX-W2-2bT" secondAttribute="bottom" constant="5" id="oqu-IN-oG7"/>
+                            <constraint firstItem="TfX-W2-2bT" firstAttribute="top" secondItem="Pj6-FF-LTc" secondAttribute="bottom" constant="5" id="rZz-0v-xAb"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="1rL-4z-cAI" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="WEf-ZK-En7"/>
+                    <constraint firstAttribute="bottom" secondItem="1rL-4z-cAI" secondAttribute="bottom" constant="5" id="Y3A-JQ-q4B"/>
+                    <constraint firstAttribute="trailing" secondItem="1rL-4z-cAI" secondAttribute="trailing" constant="5" id="aId-WS-f0w"/>
+                    <constraint firstItem="1rL-4z-cAI" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="bQY-wg-Mv9"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="messageLabel" destination="1iu-RM-SZe" id="LiG-1W-Kbf"/>
+                <outlet property="messageTime" destination="TfX-W2-2bT" id="jHC-Gf-jG8"/>
+                <outlet property="userImage" destination="Pj6-FF-LTc" id="7Ub-Sa-wTa"/>
+            </connections>
+            <point key="canvasLocation" x="140.57971014492756" y="86.049107142857139"/>
+        </tableViewCell>
+    </objects>
+    <designables>
+        <designable name="Pj6-FF-LTc">
+            <size key="intrinsicContentSize" width="860" height="678"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="placeholderImages" width="860" height="678"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
