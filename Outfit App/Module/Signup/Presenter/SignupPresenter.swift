@@ -1,9 +1,4 @@
-//
-//  SignupPresenter.swift
-//  Outfit App
-//
-//  Created by Krishna Sharma on 25/11/21.
-//
+
 
 import UIKit
 import Firebase

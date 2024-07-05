@@ -1,10 +1,3 @@
-//
-//  NibIdentifiable.swift
-//  Market App
-//
-//  Created by Ferrick Chan on 18/07/2020.
-//  Copyright © 2020 Harsh. All rights reserved.
-//
 
 import Foundation
 import UIKit

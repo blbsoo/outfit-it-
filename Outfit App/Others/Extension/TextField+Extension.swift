@@ -1,9 +1,4 @@
-//
-//  TextField+Extension.swift
-//  Outfit App
-//
-//  Created by Krishna Sharma on 27/11/21.
-//
+
 
 import UIKit
 

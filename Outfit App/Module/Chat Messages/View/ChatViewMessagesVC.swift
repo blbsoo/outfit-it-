@@ -1,9 +1,4 @@
-//
-//  ChatViewMessagesVC.swift
-//  Outfit App
-//
-//  Created by Krishna Sharma on 03/12/21.
-//
+
 
 import UIKit
 import FirebaseAuth

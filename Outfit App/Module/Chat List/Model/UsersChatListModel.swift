@@ -1,10 +1,4 @@
-//
-//  UsersChatList.swift
-//  InstantChat
-//
-//  Created by MacAdmin on 11/12/19.
-//  Copyright © 2019 MacAdmin. All rights reserved.
-//
+
 
 import UIKit
 import Firebase

@@ -1,9 +1,4 @@
-//
-//  IBDesignable+UITextField.swift
-//  No Ferpa No Party
-//
-//  Created by MacAdmin on 11/01/21.
-//
+
 
 import UIKit
 

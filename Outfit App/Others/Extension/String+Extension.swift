@@ -1,9 +1,3 @@
-//
-//  String+Extension.swift
-//  Outfit App
-//
-//  Created by Harsh Sharma on 27/11/21.
-
 
 import Foundation
 

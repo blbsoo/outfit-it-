@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  Outfit App
-//
-//  Created by  Sharma on 21/11/21.
-//
 
 import UIKit
 import Firebase

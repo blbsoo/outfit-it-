@@ -1,10 +1,4 @@
-//
-//  Storyboards.swift
-//  DeliveryApp
-//
-//  Created by MacAdmin on
-//  Copyright © 2020 Harsh. All rights reserved.
-//
+
 
 import UIKit
 

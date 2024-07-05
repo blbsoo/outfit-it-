@@ -1,9 +1,3 @@
-//
-//  MediaPickerController.swift
-//  Market App
-//
-//  Created by MacAdmin on 30/06/20.
-//  Copyright © 2020 Harsh. All rights reserved.
 
 import UIKit
 import AVFoundation

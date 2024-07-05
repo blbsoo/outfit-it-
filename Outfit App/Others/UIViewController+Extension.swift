@@ -1,9 +1,4 @@
-//
-//  UIViewController+Extension.swift
-//  Social Hunter
-//
-//  Created by MacAdmin on 27/08/21.
-//
+
 
 import UIKit
 

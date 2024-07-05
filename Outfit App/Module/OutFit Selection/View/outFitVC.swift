@@ -1,9 +1,3 @@
-//
-//  outFitVC.swift
-//  Outfit App
-//
-//  Created by Harsh Sharma on 03/12/21.
-//
 
 import UIKit
 

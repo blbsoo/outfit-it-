@@ -1,9 +1,3 @@
-//
-//  SignupVC.swift
-//  Outfit App
-//
-//  Created by Harsh Sharma on 24/11/21.
-//
 
 import UIKit
 

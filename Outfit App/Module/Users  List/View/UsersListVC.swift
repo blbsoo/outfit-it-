@@ -1,9 +1,3 @@
-//
-//  UsersListVC.swift
-//  Outfit App
-//
-//  Created by Krishna Sharma on 23/11/21.
-//
 
 import UIKit
 

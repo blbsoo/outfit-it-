@@ -1,10 +1,3 @@
-//
-//  InvokeViewController.swift
-//  DeliveryApp
-//
-//  Created by MacAdmin on 17/04/20.
-//  Copyright © 2020 Harsh. All rights reserved.
-//
 
 import UIKit
 

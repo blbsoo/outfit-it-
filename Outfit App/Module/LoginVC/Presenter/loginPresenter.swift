@@ -1,9 +1,3 @@
-//
-//  loginPresenter.swift
-//  Outfit App
-// UC398226313IN
-//  Created by Krishna Sharma on 24/11/21.
-//
 
 import UIKit
 import FirebaseAuth

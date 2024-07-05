@@ -1,9 +1,3 @@
-//
-//  LoginVC.swift
-//  Outfit App
-//
-//  Created by Krishna Sharma on 24/11/21.
-//
 
 import UIKit
 
