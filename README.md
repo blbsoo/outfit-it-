@@ -47,7 +47,7 @@ To install and run the **outFIT it** app on your local machine, follow these ste
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/outfit-it.git
+    git clone https://github.com/blbsoo/outfit-it.git
     ```
 2. Navigate to the project directory:
     ```bash
