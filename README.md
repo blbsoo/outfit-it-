@@ -113,5 +113,16 @@ Here are some screenshots of the app to give you a visual understanding of its i
 <img width="914" alt="Screenshot 2024-07-21 at 12 19 09" src="https://github.com/user-attachments/assets/13bf2437-ac7a-4205-a2b5-2fd3e733a7a2">
 <img width="642" alt="Screenshot 2024-07-21 at 14 46 02" src="https://github.com/user-attachments/assets/1174e2fc-9657-44a0-9e92-bfe2bd99ba0e">
 
+**Code implemenation**
+<img width="771" alt="Screenshot 2024-07-21 at 14 54 17" src="https://github.com/user-attachments/assets/55e76f89-299d-4b98-829d-4fa098e8ed82">
+<img width="804" alt="Screenshot 2024-07-21 at 14 54 06" src="https://github.com/user-attachments/assets/a9643fee-80fa-4666-84d0-4f342babd023">
+<img width="935" alt="Screenshot 2024-07-21 at 14 53 42" src="https://github.com/user-attachments/assets/1de886e4-5c74-4d53-8c8d-ad333a0c5b4a">
+<img width="935" alt="Screenshot 2024-07-21 at 14 53 29" src="https://github.com/user-attachments/assets/8e9a65d0-f399-4028-8075-3e3fec70c2e1">
+<img width="293" alt="Screenshot 2024-07-21 at 14 53 12" src="https://github.com/user-attachments/assets/c73b2daf-838a-48b6-a7b7-d493a7c4b07e">
+<img width="567" alt="Screenshot 2024-07-21 at 14 53 00" src="https://github.com/user-attachments/assets/63f1bbc2-4822-494a-88b0-e1efecf11dd0">
+<img width="210" alt="Screenshot 2024-07-21 at 14 52 46" src="https://github.com/user-attachments/assets/80eb75b5-7f1f-4830-8126-ddb23ea43d1e">
+<img width="533" alt="Screenshot 2024-07-21 at 14 52 12" src="https://github.com/user-attachments/assets/ff5c7abd-1afa-48c7-a6f8-ae6db0b9126c">
+<img width="684" alt="Screenshot 2024-07-21 at 14 51 59" src="https://github.com/user-attachments/assets/53ba9f13-5e76-4e0f-adb7-8c931b783ada">
+<img width="651" alt="Screenshot 2024-07-21 at 14 51 30" src="https://github.com/user-attachments/assets/c0fff482-b212-429d-985a-8a771ff42833">
 
 
