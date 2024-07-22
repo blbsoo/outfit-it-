@@ -2,19 +2,6 @@
 
 Welcome to the **outFIT it** app! This project aims to revolutionize how we approach fashion and outfit selection using technology.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Aims](#project-aims)
-- [Features](#features)
-- [Target Demographics](#target-demographics)
-- [Future Enhancements](#future-enhancements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [UI Design Process](#ui-design-process)
-- [Code implementation](#Code-implementation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -128,10 +115,3 @@ Here are some screenshots of the app to give you a visual understanding of its i
 
 
 
-
-
-We welcome contributions from the community. To contribute to this project, please fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
